@@ -1,0 +1,792 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "94F6A80AB07F19F2D2D6A5606A77868D44C9AB6E",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BFAB46E34E5E26791807C716DB1E440FD49DF64C",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CE470C48EC7DA4DAECE97A1A6D53637CC9E41E07",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "40F785A0EF2782496BA3DB7617EBFE291F2FA196",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0DDE0360B7A9551032D78D689B60D04242F38C4C",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "052FE368262AD42603C7876608812AE97D6F79EC",
+			"Assets": [
+				"/HairStrands/Materials/HairMeshesDefaultMaterial",
+				"/HairStrands/Materials/HairDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6348C62676427D3BDE877ABB86C38B54254A33D1",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B4162EC6B8A619FD5606309379770EF2F3BF023C",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "3403B5F4A69183AB7BFFC359723D5EBB8EA97CDD",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "B582BC590FE7EEFC06EEB491E954E8AD3DE88161",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Assets/Sams_Assets/UrbanAssets/White",
+				"/Game/Assets/Sams_Assets/UrbanAssets/lilac",
+				"/Game/Assets/Sams_Assets/UrbanAssets/light",
+				"/Game/Assets/Sams_Assets/UrbanAssets/lambert1",
+				"/Game/Assets/Sams_Assets/UrbanAssets/blinn36",
+				"/Game/Assets/Sams_Assets/UrbanAssets/blinn32",
+				"/Game/Assets/Sams_Assets/UrbanAssets/blinn27",
+				"/Game/Assets/Sams_Assets/UrbanAssets/blinn23",
+				"/Game/Assets/Sams_Assets/UrbanAssets/blinn18",
+				"/Game/Assets/Sams_Assets/UrbanAssets/black",
+				"/Game/Assets/Sams_Assets/Apartment9/lambert1",
+				"/Game/Assets/Sams_Assets/Apartment9/Dark_Glass",
+				"/Game/Assets/Sams_Assets/Apartment8/MayaMat8/White",
+				"/Game/Assets/Sams_Assets/Apartment8/MayaMat8/Dark_Glass",
+				"/Game/Assets/Sams_Assets/Apartment8/MayaMat8/blinn50",
+				"/Game/Assets/Sams_Assets/Apartment8/MayaMat8/blinn49",
+				"/Game/Assets/Sams_Assets/Apartment8/MayaMat8/blinn48",
+				"/Game/Assets/Sams_Assets/Apartment8/MayaMat8/blinn43",
+				"/Game/Assets/Sams_Assets/Apartment8/MayaMat8/blackmetal",
+				"/Game/Assets/Sams_Assets/Apartment7/White",
+				"/Game/Assets/Sams_Assets/Apartment7/GREYCONCRETE",
+				"/Game/Assets/Sams_Assets/Apartment7/blinn50",
+				"/Game/Assets/Sams_Assets/Apartment7/blinn43",
+				"/Game/Assets/Sams_Assets/Apartment7/blackmetal",
+				"/Game/Assets/Sams_Assets/Apartment6/MayaMat6/pasted__blinn37",
+				"/Game/Assets/Sams_Assets/Apartment6/MayaMat6/lambert1",
+				"/Game/Assets/Sams_Assets/Apartment6/MayaMat6/Dark_Glass",
+				"/Game/Assets/Sams_Assets/Apartment6/MayaMat6/darkblue",
+				"/Game/Assets/Sams_Assets/Apartment6/MayaMat6/blinn56",
+				"/Game/Assets/Sams_Assets/Apartment5/White",
+				"/Game/Assets/Sams_Assets/Apartment5/lambert1",
+				"/Game/Assets/Sams_Assets/Apartment5/blinn56",
+				"/Game/Assets/Sams_Assets/Apartment5/blinn51",
+				"/Game/Assets/Sams_Assets/Apartment5/blinn37",
+				"/Game/Assets/Sams_Assets/Apartment5/blackmetal",
+				"/Game/Assets/Sams_Assets/Apartment5/A6_Base",
+				"/Game/Assets/Sams_Assets/Apartment5/A5_Foundation",
+				"/Game/Assets/Sams_Assets/Apartment4/MayaMat4/White",
+				"/Game/Assets/Sams_Assets/Apartment4/MayaMat4/lambert1",
+				"/Game/Assets/Sams_Assets/Apartment4/MayaMat4/Dark_Glass",
+				"/Game/Assets/Sams_Assets/Apartment4/MayaMat4/blinn52",
+				"/Game/Assets/Sams_Assets/Apartment4/MayaMat4/blinn50",
+				"/Game/Assets/Sams_Assets/Apartment4/MayaMat4/blinn37",
+				"/Game/Assets/Sams_Assets/Apartment4/MayaMat4/blackmetal",
+				"/Game/Assets/Sams_Assets/Apartment3/MayaMat3/light",
+				"/Game/Assets/Sams_Assets/Apartment3/MayaMat3/lambert1",
+				"/Game/Assets/Sams_Assets/Apartment3/MayaMat3/Dark_Glass",
+				"/Game/Assets/Sams_Assets/Apartment3/MayaMat3/darkblue",
+				"/Game/Assets/Sams_Assets/Apartment3/MayaMat3/blinn56",
+				"/Game/Assets/Sams_Assets/Apartment3/MayaMat3/blinn55",
+				"/Game/Assets/Sams_Assets/Apartment2/MayaMat2/pasted__blinn37",
+				"/Game/Assets/Sams_Assets/Apartment2/MayaMat2/lambert1",
+				"/Game/Assets/Sams_Assets/Apartment2/MayaMat2/Dark_Glass",
+				"/Game/Assets/Sams_Assets/Apartment2/MayaMat2/blinn56",
+				"/Game/Assets/Sams_Assets/Apartment2/MayaMat2/blinn55",
+				"/Game/Assets/Sams_Assets/Apartment2/MayaMat2/blinn52",
+				"/Game/Assets/Sams_Assets/Apartment11/MayaMat11/lambert1",
+				"/Game/Assets/Sams_Assets/Apartment11/MayaMat11/Dark_Glass",
+				"/Game/Assets/Sams_Assets/Apartment11/MayaMat11/darkgreen",
+				"/Game/Assets/Sams_Assets/Apartment11/MayaMat11/blinn56",
+				"/Game/Assets/Sams_Assets/Apartment11/MayaMat11/blinn55",
+				"/Game/Assets/Sams_Assets/Apartment11/MayaMat11/blinn52",
+				"/Game/Assets/Sams_Assets/Apartment11/MayaMat11/blinn37",
+				"/Game/Assets/Sams_Assets/Apartment10/pasted__Dark_Glass",
+				"/Game/Assets/Sams_Assets/Apartment10/lambert1",
+				"/Game/Assets/Sams_Assets/Apartment10/Dark_Glass",
+				"/Game/Assets/Sams_Assets/Apartment10/blinn54",
+				"/Game/Assets/Sams_Assets/Apartment10/blinn52",
+				"/Game/Assets/Sams_Assets/Apartment10/blinn49",
+				"/Game/Assets/Sams_Assets/Apartment10/blackmetal",
+				"/Game/Assets/Sams_Assets/Apartment1/MayaMat1/White",
+				"/Game/Assets/Sams_Assets/Apartment1/MayaMat1/GREYCONCRETE",
+				"/Game/Assets/Sams_Assets/Apartment1/MayaMat1/Dark_Glass",
+				"/Game/Assets/Sams_Assets/Apartment1/MayaMat1/blinn53",
+				"/Game/Assets/Sams_Assets/Apartment1/MayaMat1/blinn50",
+				"/Game/Assets/Sams_Assets/Apartment1/MayaMat1/blinn37",
+				"/Game/Assets/Sams_Assets/Apartment1/MayaMat1/blackmetal",
+				"/Game/Assets/Sams_Assets/Apartment1/White",
+				"/Game/Assets/Sams_Assets/Apartment1/GREYCONCRETE",
+				"/Game/Assets/Sams_Assets/Apartment1/Dark_Glass",
+				"/Game/Assets/Sams_Assets/Apartment1/blinn53",
+				"/Game/Assets/Sams_Assets/Apartment1/blinn50",
+				"/Game/Assets/Sams_Assets/Apartment1/blinn37",
+				"/Game/Assets/Sams_Assets/Apartment1/blackmetal",
+				"/Game/Assets/Monster_Mike/mike_body_mat",
+				"/Game/Assets/Monster_Mike/horns_mat",
+				"/Game/Assets/Monster_Mike/eyeball_mat",
+				"/Game/Assets/BatWeapon/M_Handle",
+				"/Game/Assets/BatWeapon/bat_mat",
+				"/Game/3DAssets/XP_PickUp/Import/XP_3",
+				"/Game/3DAssets/XP_PickUp/Import/XP_2",
+				"/Game/3DAssets/XP_PickUp/Import/XP_1",
+				"/Game/3DAssets/Stamina_PickUp/Import/Bottle_4",
+				"/Game/3DAssets/Stamina_PickUp/Import/Bottle_3",
+				"/Game/3DAssets/Stamina_PickUp/Import/Bottle_2",
+				"/Game/3DAssets/Stamina_PickUp/Import/Bottle_1",
+				"/Game/3DAssets/Health_PickUp/Import/Fruit_Stem",
+				"/Game/3DAssets/Health_PickUp/Import/Fruit_2",
+				"/Game/3DAssets/Health_PickUp/Import/Fruit_1"
+			]
+		},
+		{
+			"ShaderMapHash": "FCB5F3C9CC541422DC22EFC1F46186481C9763DB",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "DFCEE14B748D5F99413F03AC65F73B7EFF35B7D0",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C9892EE7069065DA145E2007E85C3E97556917B0",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CD0B23625E71A67CAD3697D698CD76ED2FF75252",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid_Black1",
+				"/Game/LevelPrototyping/Materials/M_Solid_Black"
+			]
+		},
+		{
+			"ShaderMapHash": "F74F153F9E2BED4D3553EF5BC69468EECC9BE98E",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "618F5A39A5383D05CD9F08697E2B3396B55F8CD6",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/Fully_Transparent"
+			]
+		},
+		{
+			"ShaderMapHash": "E90C10652EC630CAD304BFA987B2668BCB4A12B4",
+			"Assets": [
+				"/Game/Assets/StarterContent_Materials/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "5EA194897602D71BD074419B4AA4BDD836F497C6",
+			"Assets": [
+				"/Game/Assets/StarterContent_Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "9D2BD6D451EB304EEE474DE02EC03F1F171B5C83",
+			"Assets": [
+				"/Game/Assets/StarterContent_Materials/M_Basic_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "1D9D3F7AECABE846B52784FBA7A34DC90BB2E2F9",
+			"Assets": [
+				"/Game/Assets/StarterContent_Materials/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "3D96F31E5EADE29DB4DCB2162E12A066B11FECF4",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/UrbanAssets/Metal1"
+			]
+		},
+		{
+			"ShaderMapHash": "5A95691A07B3F1D94C9DD50199D204FB382584CF",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/UrbanAssets/darkblue"
+			]
+		},
+		{
+			"ShaderMapHash": "4351CD44B515574014D5831871CBEFD9AE053295",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/UrbanAssets/BlueMetal"
+			]
+		},
+		{
+			"ShaderMapHash": "0EADDB39F82FD29EF338B93C8D591119E6D69346",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/UrbanAssets/BlackMetal"
+			]
+		},
+		{
+			"ShaderMapHash": "3A3A66866902679819B25B4A73E0F1FCD514FB14",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/UrbanAssets/BinMetalBase"
+			]
+		},
+		{
+			"ShaderMapHash": "CD4A5D7D6D05C3DBACFFAD875B4C228C1561F194",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Apartment9/StainedGlass_Green"
+			]
+		},
+		{
+			"ShaderMapHash": "07F2C04BBD140959F47C84AD99D5936EC3C71FB4",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Apartment7/Dark_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "D70DDC80AE0454504C298D7A7FECB460C52802D9",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/M_Light5"
+			]
+		},
+		{
+			"ShaderMapHash": "7E0E3FC61E344B5EC1C00AFE06B33A8B4A05CE54",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/M_Light3"
+			]
+		},
+		{
+			"ShaderMapHash": "1944606E51846435B489325539211EF14936E688",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/M_Light2"
+			]
+		},
+		{
+			"ShaderMapHash": "9FDDF7976077104688C6CEE981A8565D7A69FBD8",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/M_Light1"
+			]
+		},
+		{
+			"ShaderMapHash": "3B63BF8ACEEFD98C604BFC1042DEFDBD3ED196D3",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/M_Light"
+			]
+		},
+		{
+			"ShaderMapHash": "748816F3BC0B3FE347D7D5854275B889120367A2",
+			"Assets": [
+				"/Game/Assets/Basketball_Court_Wall_Mesh/Import/Court_Mesh"
+			]
+		},
+		{
+			"ShaderMapHash": "C67AD37A065A16D45E03F830A1AC897CACD5CC50",
+			"Assets": [
+				"/Game/3DAssets/Bat_1/BatMat1"
+			]
+		},
+		{
+			"ShaderMapHash": "A61D71835E253AD0241251E2B05E014A77CC3BFC",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6C6BD1B1B5FD013F601554097DD55AD8FFB012FD",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E6EFC6059AF00D28C616733FD927C62399854F67",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "45BB6C2AC4128C29BF92A1D0A50CEED2687E5F2F",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT",
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "47C88C3728D37C9C1A25DD6B8F8DCE33FE9DF096",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "AFD7FCC814425C784AD9B23C3D221357769153F6",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "45F1CFCBEF73D455AF060EDD2F001DB63330B155",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "EB29830576678FEC8056CF91F873E8C91167152D",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B2824C3F3B1A7A5873A0804AF1769CF037D9F9E",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "1D36E5663530FF6A3A5FCBB640F8A1D70BD6BEF5",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "31050EFA7B1D5A186DDA55EA9E817771B9CA3F8A",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "24D122B2DBBF8F3C31082AE626A3C1C916AB67A9",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/M_Light4"
+			]
+		},
+		{
+			"ShaderMapHash": "15E0EC8F59B03999634C9B67A003E1AC249B3BE3",
+			"Assets": [
+				"/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0D22921EFA8516CD6DEC8B866FD52DE3E3B907CC",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EC63DBBF9A28C040B4F5CE1721BB5770FBE265A6",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "D484D22E2A5016B62C412B1A1D99B9446AAF252A",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9A61507B8431F8620D8F1A1061E00DF2666973A8",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "79AE4E1CF6B73702DB3821F3007C337DCF3D89EE",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "12EBBBF60FDF14241C5453E474E062B5CE3A36A7",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C78DF1C51AC2F38EE15D0003DC963ED7D83AE89A",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "A8D8A6CF5C2F1B0DD1FA169B45BA3B2476CCA19C",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "E3EFD226F1542668A66C589EBC139EB36FF17BB5",
+			"Assets": [
+				"/Game/Assets/StarterContent_Materials/M_Wood_Walnut"
+			]
+		},
+		{
+			"ShaderMapHash": "031B82D73746006AD38F76273B3CC87CD18CF933",
+			"Assets": [
+				"/Game/Assets/StarterContent_Materials/M_Ground_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "B149ABC7CA5F0025BF4EB6D9A3B49EBA37B6FD2E",
+			"Assets": [
+				"/Game/Assets/StarterContent_Materials/M_Fire_SubUV_Mat",
+				"/Game/Assets/StarterContent_Materials/M_Fire",
+				"/Game/Assets/Monster_Snorlax/standardSurface1"
+			]
+		},
+		{
+			"ShaderMapHash": "B46EB3A202BE04782B59BA67764ACF7C709ED94B",
+			"Assets": [
+				"/Game/Assets/Monster_Orange/stalk_mat",
+				"/Game/Assets/Monster_Orange/eye_mat",
+				"/Game/Assets/Monster_Orange/body_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "0C6427E4CE813B9E37EFF13FDD1B659FFA9E2D7D",
+			"Assets": [
+				"/Game/Assets/Monster_Mike/MikeModel_mike_body_mat_OcclusionRoughnessMetallic_Mat",
+				"/Game/Assets/Monster_Mike/MikeModel_horns_mat_BaseColor_Mat",
+				"/Game/Assets/Monster_Mike/MikeModel_eyeball_mat_OcclusionRoughnessMetallic_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "F00669D93DA18B86696A3C82D0171BF4B01F826F",
+			"Assets": [
+				"/Game/Assets/Monster_Mike/MikeModel_mike_body_mat_BaseColor_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "C6A32E423A4997196FA99571A42260E9286CA2D0",
+			"Assets": [
+				"/Game/Assets/Monster_Mike/MikeModel_eyeball_mat_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "AFCB708C385F83F3D0780434864C2EF7EF4838AD",
+			"Assets": [
+				"/Game/Assets/Monster_Mike/MikeModel_eyeball_mat_BaseColor_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "703B949EFC318906EC7CF8568A3A43E3D49C0119",
+			"Assets": [
+				"/Game/Assets/zomballs_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "2F26BB55C6E992F3E253FD05214B049418CBA3E1",
+			"Assets": [
+				"/Game/Assets/splash2_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "7055E6021328CCFEA74AC6E2003637DD3557200A",
+			"Assets": [
+				"/Game/Assets/sam_Mat",
+				"/Game/Assets/mist_Mat",
+				"/Game/Assets/jay_Mat",
+				"/Game/Assets/tahnee_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "19F776DCD1493255F014E3DF620AE6D09DFC448F",
+			"Assets": [
+				"/Game/Assets/lance_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "CE1826EFFD2CEAA49EDFAE374A5B149E8EDD3364",
+			"Assets": [
+				"/Game/Assets/fog_mist_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "28F6627546F4A106B56E6734EF91FF7AAEAD7241",
+			"Assets": [
+				"/Game/Assets/blood_Mat_Decal"
+			]
+		},
+		{
+			"ShaderMapHash": "29D5F50B9DBBC2F1E165707D26EE500A69CBEFC3",
+			"Assets": [
+				"/Game/Assets/blood_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "7A78CE14B4BD91F2C5B518C1C7B6C8DFF1A70157",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "F3949108D28F6186ACCAD045BA8D79922F27B60D",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "EEBD6FD43AB92DF1F14C612B3E2F9C6CA92B3B62",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C8CE5E1E2D949BA2A4DAB4804FE6CCDD26A0297D",
+			"Assets": [
+				"/Game/Assets/StarterContent_Materials/M_ColorGrid_LowSpec"
+			]
+		},
+		{
+			"ShaderMapHash": "14DE3EAE6E9B93BDF3608F86A20EBA94D99089F9",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/UrbanAssets/red"
+			]
+		},
+		{
+			"ShaderMapHash": "9FFCC4959B9A2F5632BFAEE0188DB649FFEE7F09",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Concretes/Foundations5"
+			]
+		},
+		{
+			"ShaderMapHash": "909A2BEBB250326899DAACFB2A3046755AC53247",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Concretes/Foundations4"
+			]
+		},
+		{
+			"ShaderMapHash": "D3D7BF0A3E9558D986B7C8631F3A9477CFB5B5DF",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Concretes/Foundations3"
+			]
+		},
+		{
+			"ShaderMapHash": "CB59DA9CFFD7E5A135D4CF442DE5ADD897A99B87",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Concretes/Foundations1"
+			]
+		},
+		{
+			"ShaderMapHash": "908D1F3BD8F0FB3499B7A4047939C284FDAF5A33",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Concretes/Foundations"
+			]
+		},
+		{
+			"ShaderMapHash": "4E45E0424AB7A79AF3FA8E4DFF6C6EAB0F52E95B",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Apartment9/M_Apartment9"
+			]
+		},
+		{
+			"ShaderMapHash": "06194EA9BD97094510073B6DC9715981D73F45D1",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Apartment3/M_Apartment3"
+			]
+		},
+		{
+			"ShaderMapHash": "18AB047DB0BDEE1277EADB440D8CFD9FAF5CDD65",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Apartment2/M_Window1",
+				"/Game/Assets/Sams_Assets/Apartment1/M_Window1"
+			]
+		},
+		{
+			"ShaderMapHash": "974C4B21CA2A296116145A375E1128504CB644CC",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Apartment2/M_Apartment2_Outer"
+			]
+		},
+		{
+			"ShaderMapHash": "6F8D65D994DD74212F67915E52FC6DC14CE94A73",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Apartment2/M_Apartment2_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "2AAA7A58ACBD1BBAC6B7AA8E0FF4923C79B7A2C0",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Apartment11/M_Apartment11_Foundations"
+			]
+		},
+		{
+			"ShaderMapHash": "FE718A3922115BE4956DC7B386104575073DF70B",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Apartment11/M_Apartmenr11_Door"
+			]
+		},
+		{
+			"ShaderMapHash": "16FBE101D71103CA7342ADD72F8498509CC8EADD",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Apartment1/M_Wood"
+			]
+		},
+		{
+			"ShaderMapHash": "A8CA67233980F508E222D741CC5FDCF1AAED76C6",
+			"Assets": [
+				"/Game/Assets/BatWeapon/M_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "D7C53C014E0EBEE7577908C5409E9D02DFF71989",
+			"Assets": [
+				"/Game/Assets/Puddle_Mat_Decal"
+			]
+		},
+		{
+			"ShaderMapHash": "15E1F93C333ADAA0860A11B8BFFD568FA89EE32F",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "04B787784BCC496F66842CE0EFF195C481B5AD8E",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "501D2AC0A230D7467BE60AD221D63AA30766373D",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "A1D56ACC8312A6A8B558E044223BE670E16F4106",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "3E0451A8956F621741AEE629F25C2CBBA7415C54",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "F2BF870B3AA19CA396785C4A246ADCD1B9273ED0",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "E5CDDE1E1CDFACE1CD666402D285AB453B4DF39E",
+			"Assets": [
+				"/Game/FirstPersonArms/Character/Materials/M_UE4Man_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "368A6AF8C4AF90BD38DCB5B4BFF9EC392514C3DB",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "CE81E12FD69C3087B0F3AEE371C9A5E44528DAB7",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "F3F0EA1ABAF626D145CD18174A015F3A328FDC97",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
+			]
+		},
+		{
+			"ShaderMapHash": "5606BCD8A5C019C5FC69B6A7F718CF2494E1965C",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+			]
+		},
+		{
+			"ShaderMapHash": "F3971A3546B6AE2FCAEA1EC1483B53A4B9F6FD82",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "1FEC457A9A32A44BE3829909D99E3CDFE10AC39E",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Concretes/Stone"
+			]
+		},
+		{
+			"ShaderMapHash": "09C135A95522CC962EC3C427E008E24C0AEFB0C4",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Concretes/GroundConcrete"
+			]
+		},
+		{
+			"ShaderMapHash": "D0C610082DC15A419236831A082D93EDEDD948EA",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Concretes/Fence"
+			]
+		},
+		{
+			"ShaderMapHash": "2027A5DFFA38725DFCBD5D22F349FABC75793239",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Apartment8/M_Apartment8Pink"
+			]
+		},
+		{
+			"ShaderMapHash": "2EABF747C689DF70E5895073E316E3198430ECAA",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Apartment8/M_Apartment8Orange"
+			]
+		},
+		{
+			"ShaderMapHash": "7FE112AF8768E21AE28BE592544404BF20639DD4",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Apartment8/M_Apartment8Lime"
+			]
+		},
+		{
+			"ShaderMapHash": "98D00C368A168978CD08600E243B2C3F819E95B3",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Apartment8/M_Apartment8Lilac"
+			]
+		},
+		{
+			"ShaderMapHash": "AD907545E028612A8086E4860A34CA26B06E8DBD",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Apartment7/M_Apartment7"
+			]
+		},
+		{
+			"ShaderMapHash": "276F57165FF21F40A4A66ABA658DE0ED63B54F14",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Apartment5/M_Apartment5"
+			]
+		},
+		{
+			"ShaderMapHash": "EAF2EBFE0972710C077400AC61788D1B06E91B4B",
+			"Assets": [
+				"/Game/Assets/Sams_Assets/Apartment1/M_Apartment1Alt",
+				"/Game/Assets/Sams_Assets/Apartment1/M_Apartment1"
+			]
+		}
+	]
+}
